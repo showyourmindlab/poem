@@ -20,7 +20,7 @@ function setup() {
   textFont('sans-serif');
   x= width/2, y= height/2;
   i=0;
-  fill(255);
+  fill(255,0,0);
 }
 
 function draw() {
